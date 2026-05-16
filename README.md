@@ -1,4 +1,4 @@
-# CatPhotoApp
+# Classic French Toast Recipe
 A semantic web app develop with HTML and CSS during my training at freeCodeCamp Responsive Web Dev...
 
 # Sophistications
